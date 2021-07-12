@@ -6,8 +6,8 @@ Other than this project i was  the lead of a team of a firebase database design.
 this i have created 4 android applications for my learning purpose which were able to fetch and send data to firebase database and mysql database. I have not done 
 only these web based projects but i have created multiple desktop applications for my university projects and few fiver's projects aswell. 
 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on APIs (Express JS, Java Spring)
+- 📫 How to reach me : zeeshanahmedd0010@gmail.com
 
 <!---
 zeeshan-thedeveloper/zeeshan-thedeveloper is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
