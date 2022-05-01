@@ -7,21 +7,51 @@
 # About me! :wave::smiley:
 
 <!--Introduction -->
-I'm Zeeshan Ahmed! I'm a **MERN Developer**, along with good grip on Andriod, Java desktop developement, C# desktop developement, Java Spring Boot, REST API and developer of some other langauges. I am  looking to solve **real-world problems**:earth_asia:. I'm passionate about making **open-source** more accessible, creating software:computer: and tools to help people, and **building a community**. Do :star2: my repository if you find my project interesting, at least your star could make someone's day:pray:.
+Motivated, logical, creative  and hard-working MERN Stack developer with excellent analytical, technical and communication skills, seeking a position as a Software Engineer. Solution-orientated, I always look for new ways to stretch and challenge myself. In-depth proficiency  in designing APls, front-end and back-end technologies like, React Js, Next Js, React Native, Node Js (Express Js), Flutter and Andriod. Along with this proven experience with Java, C++ and  C#. Intermediate  level experience  in the Software Development Life Cycle including designing., developing, coding and software architecture.
 <br>
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :blush:</em>
 
-### 💼  Things that I'm currently working on: 
+
+### 💻 &nbsp;Programming Languages 
+
+-  &nbsp; C++
+-  &nbsp; Java
+-  &nbsp; C#
+-  &nbsp; Dot
+-  &nbsp; Javascript
+-  &nbsp; Python
+-  &nbsp; GraphQL
+### 💻 Front-end Frameworks 
+
+-  &nbsp; React Js
+-  &nbsp; React Native
+-  &nbsp; Next Js
+
+
+### 💻 &nbsp;Back-end 
+
+-  &nbsp; Node Js
+-  &nbsp; Express Js
+-  &nbsp; Spring Boot
+-  &nbsp; Web 3.0
+
+### 💻 &nbsp;Database 
+
+-  &nbsp; MySQL
+-  &nbsp; MongoDB
+-  &nbsp; Firebase realtime database
+
+<!-- ### 💼  Things that I'm currently working on: 
 * Learning Front-End React JS ( Advance)
 * Learning React Native 
 * Looking forward to take a Flutter:calling: course in future.
-* 🔜
-
+* 🔜 -->
+<!-- 
 ###  My organizations: 
 * [React Native Assets](https://github.com/React-Native-Assets)
 * [React JS Assets](https://github.com/React-JS-Assets)
-
-
+ -->
+<!-- 
 ### 🛠 &nbsp;Tech Stack
 * ![React JS](https://img.shields.io/badge/REACT%20Js-Web%20develpoment-yellow)
 * ![React Native](https://img.shields.io/badge/REACT%20Native-Mobile%20develpoment-yellow)
@@ -49,9 +79,9 @@ I'm Zeeshan Ahmed! I'm a **MERN Developer**, along with good grip on Andriod, Ja
 * ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1)&nbsp;
 * ![Latex](https://img.shields.io/badge/-Latex-05122A?style=flat&logo=latex&logoColor=008080)&nbsp;
 * ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase&logoColor=FFCA28)&nbsp;
+ -->
 
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+<!-- ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp; -->
 <!-- ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php&logoColor=777BB4)&nbsp; -->
 <!-- ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp; -->
 <!-- ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp; -->
@@ -59,10 +89,10 @@ I'm Zeeshan Ahmed! I'm a **MERN Developer**, along with good grip on Andriod, Ja
 <!-- ![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel&logoColor=FF2D20)&nbsp; -->
 
 
-![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter&logoColor=02569B)&nbsp;
+<!-- ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter&logoColor=02569B)&nbsp; -->
 
 <!-- ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp; -->
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
+<!-- ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp; -->
 
 <!-- ![Apache Kafka](https://img.shields.io/badge/-Apache%20Kafka-05122A?style=flat&logo=apache-kafka&logoColor=231F20)&nbsp; -->
 
