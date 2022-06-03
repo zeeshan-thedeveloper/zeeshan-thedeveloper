@@ -1,7 +1,7 @@
 <!-- <p align="center"><img width="450" height="450" style="border-radius: 25px;" src="https://github.com/zeeshan-thedeveloper/Media-Content/blob/main/MyProfile-min.jpg"></p> -->
 <p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">, I am Zeeshan Ahmed</h1>
+<h1 align="center">Hi  I am Zeeshan Ahmed</h1>
 <p align="center" width="150px"> I am currenty an undergraduate student at Sukkur IBA Universirty, Pakistan in Computer Science department.</p>
 
 # About me! :wave::smiley:
