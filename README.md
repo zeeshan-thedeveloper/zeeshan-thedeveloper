@@ -2,7 +2,7 @@
 <p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
 
 <h1 align="center">Hi  I am Zeeshan Ahmed</h1>
-<p align="center" width="150px"> I am currenty an undergraduate student at Sukkur IBA Universirty, Pakistan in Computer Science department.</p>
+<p align="center" width="150px"> Working as full stack developer</p>
 
 # About me! :wave::smiley:
 
