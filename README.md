@@ -46,24 +46,14 @@ I build production web platforms, APIs, and dashboards — currently going deepe
 
 ### Stack
 
-**Core**
-<br>
-<img src="https://skillicons.dev/icons?i=ts,js,python,nodejs,react,nextjs,tailwind,vite" />
-
-**Backend & data**
-<br>
-<img src="https://skillicons.dev/icons?i=express,graphql,mongodb,postgres,mysql,redis,firebase" />
-
-**Cloud & DevOps**
-<br>
-<img src="https://skillicons.dev/icons?i=aws,docker,githubactions,linux,bash,git" />
-
-**AI & automation**
-<br>
-<img src="https://img.shields.io/badge/OpenAI-111?style=flat-square&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/LangChain-111?style=flat-square&logo=langchain&logoColor=white" />
-<img src="https://img.shields.io/badge/AI%20Agents-111?style=flat-square" />
-<img src="https://img.shields.io/badge/NLP%20Workflows-111?style=flat-square" />
+| Layer | Technologies |
+|---|---|
+| **Languages** | TypeScript · JavaScript · Python |
+| **Frontend** | React · Next.js · Vite · Tailwind CSS |
+| **Backend** | Node.js · Express · REST · GraphQL · Socket.IO |
+| **Databases** | MongoDB · PostgreSQL · MySQL · Redis · Firebase |
+| **Cloud & DevOps** | AWS (Lambda · Amplify · CloudWatch) · Docker · GitHub Actions |
+| **AI & Automation** | OpenAI API · LangChain · AI Agents · NLP Pipelines · Prompt Engineering |
 
 ---
 
