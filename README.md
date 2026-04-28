@@ -83,15 +83,6 @@ I build production web platforms, APIs, and dashboards — currently going deepe
 
 ---
 
-### Stats
-
-<p>
-  <img height="155" src="https://github-readme-stats.vercel.app/api?username=zeeshan-thedeveloper&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=transparent&title_color=8b8b8b&text_color=8b8b8b&icon_color=8b8b8b" />
-  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeeshan-thedeveloper&layout=compact&hide_border=true&theme=transparent&title_color=8b8b8b&text_color=8b8b8b" />
-</p>
-
----
-
 ### Get in touch
 
 Open to conversations around software engineering, AI-powered products, backend systems, and practical automation. If you're building something where engineering quality and applied AI matter — let's talk.
